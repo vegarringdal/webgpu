@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "eamodio.gitlens",
+        "pflannery.vscode-versionlens",
+        "esbenp.prettier-vscode",
+        "bradlc.vscode-tailwindcss",
+        "ggsimm.wgsl-literal",
+        "wgsl-analyzer.wgsl-analyzer",
+        "PolyMeilex.wgsl"
+    ]
+}
